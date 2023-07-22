@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "670339547553",
+    "firebase_url": "https://super-cart-301a1-default-rtdb.firebaseio.com",
+    "project_id": "super-cart-301a1",
+    "storage_bucket": "super-cart-301a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670339547553:android:3e7fb44f1d3b7b7246cbe0",
+        "android_client_info": {
+          "package_name": "com.onatcipli.superCart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670339547553-r4tim89rdg65dv1tssnovct9g3pkn5md.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.onatcipli.superCart",
+            "certificate_hash": "bc8af50edfde28942121ede8653c35e1115257fe"
+          }
+        },
+        {
+          "client_id": "670339547553-pma4s61vokg5aarbiic8t29po70flvoq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcPYgw7qMYf2yvna8VJcHNSa23ZXTP1L0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670339547553-p9f296rak7htde34uh57r4sbk0one29k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
